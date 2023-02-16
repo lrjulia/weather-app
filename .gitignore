@@ -1,5 +1,5 @@
 #Env
-.env
+.envgit rm --cached .env
 
 # Logs
 logs
